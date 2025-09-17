@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "208439d1-252c-4ac5-828e-b0a1d6e4c57c",
+    "subject": "Invoice wrong",
+    "body": "My bill has the wrong amount",
+    "topic": "Billing",
+    "ts": 1758152127
+  },
+  {
+    "id": "7358915d-ee06-47db-85cc-0bdfc0dfaf3a",
+    "subject": "General",
+    "body": "I just need some help",
+    "topic": null,
+    "ts": 1758152343
+  }
+]
